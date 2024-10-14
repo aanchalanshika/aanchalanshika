@@ -1,5 +1,5 @@
-<h1 align="center">NAMASTE 👋, I'm Aanchal Anshika</h1>
-<h3 align="center">I drink coffee and write code</h3>
+<h1 align="center">NAMASTE 👋, I'm Aanchal</h1>
+<h3 align="center">I drink coffee and write code!:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalanshika&label=Profile%20views&color=0e75b6&style=flat" alt="aanchalanshika" /> </p>
 <div align="center">

@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalanshika&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanchalanshika&" alt="aanchalanshika" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanchalanshika&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" style="max-width: 100%;">

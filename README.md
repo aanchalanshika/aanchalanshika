@@ -1,5 +1,9 @@
 <h1 align="center">NAMASTE 👋, I'm Aanchal Anshika</h1>
 <h3 align="center">i drink coffee and write code</h3>
+<div align="center">
+  <img height="300" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iNms4N2hnZzFsbXpnbzA1M3pwaDB0end5MXFoczllMzY5ZzRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA31UlQMW9WC47HW/giphy.webp" />
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalanshika&label=Profile%20views&color=0e75b6&style=flat" alt="aanchalanshika" /> </p>
 

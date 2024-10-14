@@ -1,15 +1,14 @@
 <h1 align="center">NAMASTE 👋, I'm Aanchal </h1>
 <h3 align="center">i drink coffee and write code</h3>
-<div align="center">
-   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iNms4N2hnZzFsbXpnbzA1M3pwaDB0end5MXFoczllMzY5ZzRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA31UlQMW9WC47HW/giphy.webp" />
+
+   <div align="center">
+  <img height="300" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iNms4N2hnZzFsbXpnbzA1M3pwaDB0end5MXFoczllMzY5ZzRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA31UlQMW9WC47HW/giphy.webp" />
+
 </div>
-![](https://github-profile-trophy.vercel.app/?username=aanchalanshika&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 
 
-<img src="https://img.shields.io/badge/R-011627?logo=r&logoColor=#80A4C2&style=for-the-badge" height="35" alt="r logo" />
-<img width="12" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

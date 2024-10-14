@@ -8,7 +8,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanchalanshika" alt="aanchalanshika" /></a> </p>
+<img src="https://img.shields.io/badge/R-011627?logo=r&logoColor=#80A4C2&style=for-the-badge" height="35" alt="r logo" />
+<img width="12" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

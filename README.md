@@ -2,6 +2,9 @@
 <h3 align="center">A passionate coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalanshika&label=Profile%20views&color=0e75b6&style=flat" alt="aanchalanshika" /> </p>
+<div align="center">
+  <img height="300" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iNms4N2hnZzFsbXpnbzA1M3pwaDB0end5MXFoczllMzY5ZzRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA31UlQMW9WC47HW/giphy.webp" />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanchalanshika" alt="aanchalanshika" /></a> </p>
 

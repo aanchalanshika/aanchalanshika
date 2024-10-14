@@ -36,8 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanchalanshika&theme=nightowl" alt="aanchalanshika" /></p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanchalanshika&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" style="max-width: 100%;">
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 

@@ -34,7 +34,7 @@
 
 <h3 align="left">Git Stats</h3>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalanshika&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/>
+  [](https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalanshika&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanchalanshika&show_icons=true&locale=en&theme=nightowl" alt="aanchalanshika" /></p>
 

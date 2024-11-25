@@ -33,7 +33,8 @@
   <img width="12" />
 
 <h3 align="left">Git Status</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalanshika&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
+<p>&nbsp;<img align="center" src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalanshika&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanchalanshika&show_icons=true&locale=en&theme=nightowl" alt="aanchalanshika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanchalanshika&theme=nightowl" alt="aanchalanshika" /></p>

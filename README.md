@@ -6,15 +6,15 @@
   <img height="300" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1iNms4N2hnZzFsbXpnbzA1M3pwaDB0end5MXFoczllMzY5ZzRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA31UlQMW9WC47HW/giphy.webp" />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanchalanshika" alt="aanchalanshika" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **decision tree algorithm**
+- 🔭 I’m currently working on **backend development**
 
-- 🌱 I’m currently learning **machine learning, frontend frameworks**
+- 🌱 I’m currently learning **machine learning, backend**
 
-- 💬 Ask me about **java, cpp, dsa, html, css, javascript, R langugage**
+- 💬 Ask me about ** cpp, dsa, html, css, javascript, R langugage**
 
 - 📫 How to reach me **aanchalanshika24@gmail.com**
 
